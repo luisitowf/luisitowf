@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Luis 👋
 
-<!--
-**luisitowf/luisitowf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Brazilian living in Ireland  
+💻 Software Engineering student  
+🐍 Learning Python  
+⚙️ Background in industrial manufacturing  
 
-Here are some ideas to get you started:
+### Current focus
+- Python fundamentals
+- Git & GitHub
+- Building my first portfolio projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 🍽️ Sabor Express (Python – CLI app)
+
